@@ -1,0 +1,246 @@
+.fill {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.center {
+    align-items: center;
+    justify-content: center;
+}
+
+Label {
+    color: rgb(225, 245, 255);
+    -unity-font-style: bold;
+    padding: 0;
+    margin: 0;
+}
+
+/* Top-right stats */
+
+.top-right {
+    position: absolute;
+    top: 28px;
+    right: 260px;
+    width: 300px;
+}
+
+.stat-row {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2px;
+}
+
+.stat-label {
+    font-size: 18px;
+    color: rgb(130, 220, 255);
+    letter-spacing: 3px;
+}
+
+.stat-value {
+    font-size: 30px;
+    letter-spacing: 2px;
+    -unity-text-align: middle-right;
+}
+
+.stat-value.small {
+    font-size: 22px;
+}
+
+.radar {
+    position: absolute;
+    top: 22px;
+    right: 28px;
+    width: 200px;
+    height: 200px;
+}
+
+/* Bottom panels */
+
+.panel {
+    position: absolute;
+    bottom: 30px;
+    padding: 14px 18px;
+    background-color: rgba(4, 18, 28, 0.45);
+    border-left-width: 3px;
+    border-color: rgba(120, 225, 255, 0.85);
+}
+
+.bottom-left {
+    left: 30px;
+    width: 440px;
+}
+
+.bottom-right {
+    right: 30px;
+    width: 330px;
+}
+
+.bar-row {
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.bar-label {
+    width: 86px;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+.bar-bg {
+    flex-grow: 1;
+    height: 12px;
+    background-color: rgba(120, 225, 255, 0.15);
+    border-width: 1px;
+    border-color: rgba(120, 225, 255, 0.5);
+}
+
+.bar-bg.wide {
+    margin-top: 8px;
+    height: 8px;
+}
+
+.bar-fill {
+    height: 100%;
+    width: 100%;
+    background-color: rgb(140, 235, 255);
+}
+
+.bar-fill.boost {
+    background-color: rgb(100, 160, 255);
+}
+
+.bar-fill.reload {
+    background-color: rgb(255, 196, 60);
+}
+
+.bar-fill.danger {
+    background-color: rgb(255, 70, 50);
+}
+
+.hint {
+    font-size: 14px;
+    color: rgba(130, 220, 255, 0.7);
+    letter-spacing: 2px;
+}
+
+.weapon-row {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.weapon-label {
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+.weapon-value {
+    font-size: 30px;
+    letter-spacing: 2px;
+}
+
+.weapon-value.reloading {
+    color: rgb(255, 196, 60);
+}
+
+.weapon-value.ready {
+    color: rgb(140, 255, 190);
+}
+
+.weapon-value.locked {
+    color: rgb(255, 90, 70);
+}
+
+/* Popups */
+
+.bonus {
+    position: absolute;
+    top: 150px;
+    left: 0;
+    right: 0;
+    -unity-text-align: middle-center;
+    font-size: 46px;
+    color: rgb(255, 214, 90);
+    letter-spacing: 6px;
+    text-shadow: 0 0 8px rgba(255, 120, 0, 0.9);
+}
+
+.warning {
+    position: absolute;
+    top: 230px;
+    left: 0;
+    right: 0;
+    -unity-text-align: middle-center;
+    font-size: 30px;
+    color: rgb(255, 70, 50);
+    letter-spacing: 8px;
+}
+
+.damage {
+    -unity-background-image-tint-color: rgb(255, 30, 20);
+    opacity: 0;
+}
+
+/* Title / game over */
+
+.logo {
+    width: 1000px;
+    height: 300px;
+    -unity-background-scale-mode: scale-to-fit;
+}
+
+.subtitle {
+    font-size: 24px;
+    letter-spacing: 12px;
+    color: rgb(140, 220, 255);
+    margin-top: 0;
+    margin-bottom: 60px;
+}
+
+.blink {
+    font-size: 34px;
+    letter-spacing: 8px;
+}
+
+.help {
+    margin-top: 40px;
+    font-size: 17px;
+    letter-spacing: 2px;
+    color: rgba(225, 245, 255, 0.85);
+    background-color: rgba(4, 18, 28, 0.5);
+    padding: 10px 24px;
+}
+
+.best {
+    margin-top: 16px;
+    font-size: 18px;
+    letter-spacing: 3px;
+    color: rgb(255, 214, 90);
+}
+
+.big {
+    font-size: 96px;
+    letter-spacing: 18px;
+    color: rgb(255, 80, 60);
+    text-shadow: 0 0 12px rgba(255, 0, 0, 0.8);
+}
+
+.result {
+    font-size: 28px;
+    letter-spacing: 4px;
+    margin-top: 24px;
+    margin-bottom: 50px;
+    -unity-text-align: middle-center;
+}
+
+.lock-tag {
+    position: absolute;
+    font-size: 13px;
+    color: rgb(255, 70, 50);
+    letter-spacing: 2px;
+}

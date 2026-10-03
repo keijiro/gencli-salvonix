@@ -1,0 +1,66 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" editor-extension-mode="False">
+    <Style src="Hud.uss" />
+    <ui:VisualElement name="root" class="fill" picking-mode="Ignore">
+        <ui:VisualElement name="damage" class="fill damage" picking-mode="Ignore" />
+        <ui:VisualElement name="overlay-holder" class="fill" picking-mode="Ignore" />
+        <ui:VisualElement name="hud" class="fill" picking-mode="Ignore">
+            <ui:VisualElement class="top-right" picking-mode="Ignore">
+                <ui:VisualElement class="stat-row" picking-mode="Ignore">
+                    <ui:Label text="TIME" class="stat-label" />
+                    <ui:Label name="time" text="00:00.00" class="stat-value" />
+                </ui:VisualElement>
+                <ui:VisualElement class="stat-row" picking-mode="Ignore">
+                    <ui:Label text="SCORE" class="stat-label" />
+                    <ui:Label name="score" text="00000000" class="stat-value" />
+                </ui:VisualElement>
+                <ui:VisualElement class="stat-row" picking-mode="Ignore">
+                    <ui:Label text="THREAT" class="stat-label" />
+                    <ui:Label name="level" text="LV 1" class="stat-value small" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+            <ui:VisualElement name="radar-holder" class="radar" picking-mode="Ignore" />
+            <ui:VisualElement class="panel bottom-left" picking-mode="Ignore">
+                <ui:VisualElement class="bar-row" picking-mode="Ignore">
+                    <ui:Label text="HP" class="bar-label" />
+                    <ui:VisualElement class="bar-bg" picking-mode="Ignore">
+                        <ui:VisualElement name="hp-fill" class="bar-fill" picking-mode="Ignore" />
+                    </ui:VisualElement>
+                </ui:VisualElement>
+                <ui:VisualElement class="bar-row" picking-mode="Ignore">
+                    <ui:Label text="BOOST" class="bar-label" />
+                    <ui:VisualElement class="bar-bg" picking-mode="Ignore">
+                        <ui:VisualElement name="boost-fill" class="bar-fill boost" picking-mode="Ignore" />
+                    </ui:VisualElement>
+                </ui:VisualElement>
+                <ui:Label text="WASD : EVADE" class="hint" />
+            </ui:VisualElement>
+            <ui:VisualElement class="panel bottom-right" picking-mode="Ignore">
+                <ui:VisualElement class="weapon-row" picking-mode="Ignore">
+                    <ui:Label text="MISSILE" class="weapon-label" />
+                    <ui:Label name="missile-state" text="READY" class="weapon-value" />
+                </ui:VisualElement>
+                <ui:VisualElement class="weapon-row" picking-mode="Ignore">
+                    <ui:Label text="LOCK" class="weapon-label" />
+                    <ui:Label name="lock-count" text="00 / 12" class="weapon-value" />
+                </ui:VisualElement>
+                <ui:VisualElement class="bar-bg wide" picking-mode="Ignore">
+                    <ui:VisualElement name="reload-fill" class="bar-fill reload" picking-mode="Ignore" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+            <ui:Label name="bonus" text="" class="bonus" />
+            <ui:Label name="warning" text="WARNING  ARMOR CRITICAL" class="warning" />
+        </ui:VisualElement>
+        <ui:VisualElement name="title" class="fill center" picking-mode="Ignore">
+            <ui:VisualElement name="logo" class="logo" picking-mode="Ignore" />
+            <ui:Label text="COLONY DEFENSE OPERATION" class="subtitle" />
+            <ui:Label name="start" text="CLICK TO START" class="blink" />
+            <ui:Label text="HOVER CURSOR OVER ENEMIES TO LOCK ON (MAX 12)   ·   CLICK TO FIRE MISSILES   ·   WASD TO EVADE" class="help" />
+            <ui:Label name="best" text="" class="best" />
+        </ui:VisualElement>
+        <ui:VisualElement name="gameover" class="fill center" picking-mode="Ignore">
+            <ui:Label text="SIGNAL LOST" class="big" />
+            <ui:Label name="result" text="" class="result" />
+            <ui:Label name="retry" text="CLICK TO RETRY" class="blink" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
