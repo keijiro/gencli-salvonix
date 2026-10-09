@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "generator": {
+    "name": "unity-ai",
+    "version": "0.1.0-alpha.13"
+  },
+  "modelId": "minimax-music-3-0",
+  "orgId": "20067061194790",
+  "jobId": "01a0ffd9-1258-7bc3-8928-0eb817f44e69",
+  "assetId": "01a0ffda-46db-76ce-8521-670a73ddb1a0",
+  "pointsCost": 5,
+  "createdAt": "2026-10-03T03:41:34.1051150+00:00",
+  "prompt": "Instrumental 1990s Japanese mecha anime battle theme, intense and heroic, 160 BPM, driving rock drums, distorted electric guitar riffs, punchy brass stabs, fast synth arpeggios, soaring string melody, epic space battle, no vocals",
+  "modelName": "MiniMax Music 3.0",
+  "params": {
+    "prompt": "Instrumental 1990s Japanese mecha anime battle theme, intense and heroic, 160 BPM, driving rock drums, distorted electric guitar riffs, punchy brass stabs, fast synth arpeggios, soaring string melody, epic space battle, no vocals",
+    "is_instrumental": true
+  },
+  "output": {
+    "index": 1,
+    "count": 1,
+    "generationId": "01a0ffd9-1258-7bc3-8928-0eb817f44e69"
+  }
+}

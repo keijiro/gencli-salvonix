@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "generator": {
+    "name": "unity-ai",
+    "version": "0.1.0-alpha.13"
+  },
+  "modelId": "elevenlabs-sound-effects-v2",
+  "orgId": "20067061194790",
+  "jobId": "01a0ffd9-1190-7106-b906-d61c25038e3c",
+  "assetId": "01a0ffd9-2c9f-7272-8c50-cdeaac05eb43",
+  "pointsCost": 5,
+  "createdAt": "2026-10-03T03:40:20.1225570+00:00",
+  "prompt": "Cockpit warning alarm, two fast urgent electronic beeps repeating, sci-fi mecha HUD",
+  "modelName": "ElevenLabs Sound Effects V2",
+  "params": {
+    "prompt": "Cockpit warning alarm, two fast urgent electronic beeps repeating, sci-fi mecha HUD",
+    "duration": 1.5,
+    "prompt_influence": 0.7
+  },
+  "output": {
+    "index": 1,
+    "count": 1,
+    "generationId": "01a0ffd9-1190-7106-b906-d61c25038e3c"
+  }
+}

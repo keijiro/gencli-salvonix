@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "generator": {
+    "name": "unity-ai",
+    "version": "0.1.0-alpha.13"
+  },
+  "modelId": "model3d-tripo-p2",
+  "orgId": "20067061194790",
+  "jobId": "01a0ffd7-48dc-7b03-84e7-bb57accccd74",
+  "assetId": "01a0ffd9-4acd-7bf5-a779-a12ad78a4d46",
+  "pointsCost": 34,
+  "createdAt": "2026-10-03T03:40:31.1614130+00:00",
+  "modelName": "Tripo P2",
+  "params": {
+    "face_limit": 6000,
+    "texture_quality": "detailed",
+    "reference_image": "01a0ffd7-3c0e-7392-a815-2cbcaed14906"
+  },
+  "inputs": [
+    {
+      "param": "reference_image",
+      "file": "drone_concept-cutout.png",
+      "assetId": "01a0ffd7-3c0e-7392-a815-2cbcaed14906"
+    }
+  ],
+  "output": {
+    "index": 1,
+    "count": 1,
+    "generationId": "01a0ffd7-48dc-7b03-84e7-bb57accccd74"
+  }
+}

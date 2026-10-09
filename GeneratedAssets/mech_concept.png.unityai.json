@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "generator": {
+    "name": "unity-ai",
+    "version": "0.1.0-alpha.13"
+  },
+  "modelId": "gpt-image-2-5-flare",
+  "orgId": "20067061194790",
+  "jobId": "01a0ffd5-3dff-7e44-a554-3948b87c2eac",
+  "assetId": "01a0ffd5-9b05-743e-9a37-5a88085b0e58",
+  "pointsCost": 2,
+  "createdAt": "2026-10-03T03:36:27.6123730+00:00",
+  "prompt": "Full body 3D render of the PLAYER UNIT mecha from the reference sheet, front three-quarter view, standing in a neutral pose with arms slightly away from the body, legs slightly apart. Two box-shaped shoulder missile launcher pods (3x3 red-rimmed tubes) mounted on top of the shoulders. White and light grey armor plates with deep blue accents and dark grey frame, glowing cyan eye visor. Single isolated object, entire robot visible from head to feet, centered, plain flat light grey studio background, soft even lighting, no text, no labels.",
+  "modelName": "GPT Image 2.5 Flare",
+  "params": {
+    "prompt": "Full body 3D render of the PLAYER UNIT mecha from the reference sheet, front three-quarter view, standing in a neutral pose with arms slightly away from the body, legs slightly apart. Two box-shaped shoulder missile launcher pods (3x3 red-rimmed tubes) mounted on top of the shoulders. White and light grey armor plates with deep blue accents and dark grey frame, glowing cyan eye visor. Single isolated object, entire robot visible from head to feet, centered, plain flat light grey studio background, soft even lighting, no text, no labels.",
+    "width": 1024,
+    "height": 1536,
+    "quality": "high",
+    "background": "opaque",
+    "reference_images": [
+      "01a0ffd5-3035-73df-8dee-a598eada485e"
+    ]
+  },
+  "inputs": [
+    {
+      "param": "reference_images",
+      "file": "concept3.png",
+      "assetId": "01a0ffd5-3035-73df-8dee-a598eada485e"
+    }
+  ],
+  "output": {
+    "index": 1,
+    "count": 1,
+    "generationId": "01a0ffd5-3dff-7e44-a554-3948b87c2eac"
+  }
+}

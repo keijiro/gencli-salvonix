@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "generator": {
+    "name": "unity-ai",
+    "version": "0.1.0-alpha.13"
+  },
+  "modelId": "elevenlabs-sound-effects-v2",
+  "orgId": "20067061194790",
+  "jobId": "01a0ffd9-10ad-71dd-9095-61d943ecf75b",
+  "assetId": "01a0ffd9-2d0d-77a7-ae73-d8f430927201",
+  "pointsCost": 5,
+  "createdAt": "2026-10-03T03:40:21.3303910+00:00",
+  "prompt": "Heavy metallic impact of an energy bolt hitting mecha armor, crunchy clang with electric sizzle",
+  "modelName": "ElevenLabs Sound Effects V2",
+  "params": {
+    "prompt": "Heavy metallic impact of an energy bolt hitting mecha armor, crunchy clang with electric sizzle",
+    "duration": 1,
+    "prompt_influence": 0.6
+  },
+  "output": {
+    "index": 1,
+    "count": 1,
+    "generationId": "01a0ffd9-10ad-71dd-9095-61d943ecf75b"
+  }
+}

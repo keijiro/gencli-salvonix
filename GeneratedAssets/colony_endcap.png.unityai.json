@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "generator": {
+    "name": "unity-ai",
+    "version": "0.1.0-alpha.13"
+  },
+  "modelId": "gpt-image-2-5-flare",
+  "orgId": "20067061194790",
+  "jobId": "01a0ffd8-93e4-7c31-8dfd-f448d36270f9",
+  "assetId": "01a0ffd9-36a6-7746-8de3-00701f3c6c6f",
+  "pointsCost": 3,
+  "createdAt": "2026-10-03T03:40:24.2728090+00:00",
+  "prompt": "Looking straight at the circular end cap wall of a gigantic cylindrical space colony from inside, perfectly centered and symmetric, front orthographic view: a huge circular bulkhead made of metallic panels, radial structural spokes converging on a central docking hub, several concentric rings of bright white lights, mechanical details, slightly hazy atmosphere. The circle fills the whole square frame, corners dark. No text.",
+  "modelName": "GPT Image 2.5 Flare",
+  "params": {
+    "prompt": "Looking straight at the circular end cap wall of a gigantic cylindrical space colony from inside, perfectly centered and symmetric, front orthographic view: a huge circular bulkhead made of metallic panels, radial structural spokes converging on a central docking hub, several concentric rings of bright white lights, mechanical details, slightly hazy atmosphere. The circle fills the whole square frame, corners dark. No text.",
+    "width": 2048,
+    "height": 2048,
+    "quality": "high",
+    "background": "opaque",
+    "reference_images": [
+      "01a0ffd8-83ff-7631-bdc0-4f26036a0238"
+    ]
+  },
+  "inputs": [
+    {
+      "param": "reference_images",
+      "file": "concept1.png",
+      "assetId": "01a0ffd8-83ff-7631-bdc0-4f26036a0238"
+    }
+  ],
+  "output": {
+    "index": 1,
+    "count": 1,
+    "generationId": "01a0ffd8-93e4-7c31-8dfd-f448d36270f9"
+  }
+}

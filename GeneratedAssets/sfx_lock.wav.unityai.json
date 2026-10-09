@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "generator": {
+    "name": "unity-ai",
+    "version": "0.1.0-alpha.13"
+  },
+  "modelId": "elevenlabs-sound-effects-v2",
+  "orgId": "20067061194790",
+  "jobId": "01a0ffd9-125d-7bbb-a3bd-36e1a245b73d",
+  "assetId": "01a0ffd9-2d8e-7c8d-b983-8a42a4ffb736",
+  "pointsCost": 5,
+  "createdAt": "2026-10-03T03:40:20.2742580+00:00",
+  "prompt": "Single short crisp high-pitched electronic target lock-on beep from a fighter cockpit HUD, clean digital blip, no reverb",
+  "modelName": "ElevenLabs Sound Effects V2",
+  "params": {
+    "prompt": "Single short crisp high-pitched electronic target lock-on beep from a fighter cockpit HUD, clean digital blip, no reverb",
+    "duration": 0.5,
+    "prompt_influence": 0.7
+  },
+  "output": {
+    "index": 1,
+    "count": 1,
+    "generationId": "01a0ffd9-125d-7bbb-a3bd-36e1a245b73d"
+  }
+}

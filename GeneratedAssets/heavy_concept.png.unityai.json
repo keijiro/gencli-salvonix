@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "generator": {
+    "name": "unity-ai",
+    "version": "0.1.0-alpha.13"
+  },
+  "modelId": "gpt-image-2-5-flare",
+  "orgId": "20067061194790",
+  "jobId": "01a0ffd5-3f89-77b2-ad5d-a9e94d62039b",
+  "assetId": "01a0ffd5-c6d2-7703-a176-422724f231a2",
+  "pointsCost": 2,
+  "createdAt": "2026-10-03T03:36:38.6962190+00:00",
+  "prompt": "3D render of a heavy enemy gunship drone in the same dark gunmetal and red-eye style as the enemy drones in the references: a larger armored central body with a big glowing red sensor core, two side-mounted engine pods with orange-red thruster glow, angular armored wings and a pair of downward cannon arms. Bulkier and more menacing than the small drones. Front three-quarter view from slightly above. Single isolated object, centered, plain flat light grey studio background, soft even lighting, no text, no labels.",
+  "modelName": "GPT Image 2.5 Flare",
+  "params": {
+    "prompt": "3D render of a heavy enemy gunship drone in the same dark gunmetal and red-eye style as the enemy drones in the references: a larger armored central body with a big glowing red sensor core, two side-mounted engine pods with orange-red thruster glow, angular armored wings and a pair of downward cannon arms. Bulkier and more menacing than the small drones. Front three-quarter view from slightly above. Single isolated object, centered, plain flat light grey studio background, soft even lighting, no text, no labels.",
+    "width": 1536,
+    "height": 1024,
+    "quality": "high",
+    "background": "opaque",
+    "reference_images": [
+      "01a0ffd5-2e91-77eb-9041-73f3dea7f30d",
+      "01a0ffd5-3924-7777-9bd0-98b5e2cc466b"
+    ]
+  },
+  "inputs": [
+    {
+      "param": "reference_images",
+      "file": "concept1.png",
+      "assetId": "01a0ffd5-2e91-77eb-9041-73f3dea7f30d"
+    },
+    {
+      "param": "reference_images",
+      "file": "concept3.png",
+      "assetId": "01a0ffd5-3924-7777-9bd0-98b5e2cc466b"
+    }
+  ],
+  "output": {
+    "index": 1,
+    "count": 1,
+    "generationId": "01a0ffd5-3f89-77b2-ad5d-a9e94d62039b"
+  }
+}

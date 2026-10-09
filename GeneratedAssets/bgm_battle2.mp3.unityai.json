@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "generator": {
+    "name": "unity-ai",
+    "version": "0.1.0-alpha.13"
+  },
+  "modelId": "minimax-music-3-0",
+  "orgId": "20067061194790",
+  "jobId": "01a0ffdc-ac32-7786-b92b-f624bea28e51",
+  "assetId": "01a0ffdd-b83a-7593-832f-a46c8963c700",
+  "pointsCost": 5,
+  "createdAt": "2026-10-03T03:45:20.0335050+00:00",
+  "prompt": "Instrumental high-speed Japanese super robot anime dogfight music, 170 BPM, tense minor key, relentless double-kick drums, shredding electric guitar lead, orchestral strings ostinato, brass fanfare hits, synth bass, climactic missile barrage chase, no vocals",
+  "modelName": "MiniMax Music 3.0",
+  "params": {
+    "prompt": "Instrumental high-speed Japanese super robot anime dogfight music, 170 BPM, tense minor key, relentless double-kick drums, shredding electric guitar lead, orchestral strings ostinato, brass fanfare hits, synth bass, climactic missile barrage chase, no vocals",
+    "is_instrumental": true
+  },
+  "output": {
+    "index": 1,
+    "count": 1,
+    "generationId": "01a0ffdc-ac32-7786-b92b-f624bea28e51"
+  }
+}

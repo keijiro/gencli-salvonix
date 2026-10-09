@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "generator": {
+    "name": "unity-ai",
+    "version": "0.1.0-alpha.13"
+  },
+  "modelId": "gpt-image-2-5-flare",
+  "orgId": "20067061194790",
+  "jobId": "01a10001-af0c-72db-bb62-06d5333af3d1",
+  "assetId": "01a10002-55ec-723c-9401-091a148c6d26",
+  "pointsCost": 2,
+  "createdAt": "2026-10-03T04:25:18.2706380+00:00",
+  "prompt": "Full body 3D render of the exact same mecha as in the first reference image (identical armor design, white / light grey / deep blue / dark grey colors, glowing cyan visor, two box-shaped shoulder missile pods), now in a dynamic mid-air flight pose like the robot in the second reference image: airborne, torso leaning forward about 20 degrees, both arms lowered and angled slightly backward and outward with bent elbows and closed fists, legs trailing behind the body with knees bent about 30 degrees, the left leg bent a little more than the right, feet pointing down and back. No ground, no shadow, no thruster flames, no smoke, no effects. Front three-quarter view at eye level, the entire robot visible from head to feet, centered, plain flat light grey studio background, soft even lighting, no text.",
+  "modelName": "GPT Image 2.5 Flare",
+  "params": {
+    "prompt": "Full body 3D render of the exact same mecha as in the first reference image (identical armor design, white / light grey / deep blue / dark grey colors, glowing cyan visor, two box-shaped shoulder missile pods), now in a dynamic mid-air flight pose like the robot in the second reference image: airborne, torso leaning forward about 20 degrees, both arms lowered and angled slightly backward and outward with bent elbows and closed fists, legs trailing behind the body with knees bent about 30 degrees, the left leg bent a little more than the right, feet pointing down and back. No ground, no shadow, no thruster flames, no smoke, no effects. Front three-quarter view at eye level, the entire robot visible from head to feet, centered, plain flat light grey studio background, soft even lighting, no text.",
+    "width": 1024,
+    "height": 1536,
+    "quality": "high",
+    "background": "opaque",
+    "num_outputs": 2,
+    "reference_images": [
+      "01a10001-9a70-7867-922e-63024deb6163",
+      "01a10001-a53b-728f-9e38-b9d590453294"
+    ]
+  },
+  "inputs": [
+    {
+      "param": "reference_images",
+      "file": "mech_concept.png",
+      "assetId": "01a10001-9a70-7867-922e-63024deb6163"
+    },
+    {
+      "param": "reference_images",
+      "file": "concept2.png",
+      "assetId": "01a10001-a53b-728f-9e38-b9d590453294"
+    }
+  ],
+  "output": {
+    "index": 1,
+    "count": 2,
+    "generationId": "01a10001-af0c-72db-bb62-06d5333af3d1"
+  }
+}

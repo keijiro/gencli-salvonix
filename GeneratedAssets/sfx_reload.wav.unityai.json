@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "generator": {
+    "name": "unity-ai",
+    "version": "0.1.0-alpha.13"
+  },
+  "modelId": "elevenlabs-sound-effects-v2",
+  "orgId": "20067061194790",
+  "jobId": "01a0ffd9-119a-7a04-8294-cb60a1028870",
+  "assetId": "01a0ffd9-43fa-7160-846c-33486dc7d200",
+  "pointsCost": 5,
+  "createdAt": "2026-10-03T03:40:25.7943210+00:00",
+  "prompt": "Missile pod reload complete: quick mechanical clunk and latch followed by a short rising two-tone ready chime from a cockpit HUD",
+  "modelName": "ElevenLabs Sound Effects V2",
+  "params": {
+    "prompt": "Missile pod reload complete: quick mechanical clunk and latch followed by a short rising two-tone ready chime from a cockpit HUD",
+    "duration": 1,
+    "prompt_influence": 0.7
+  },
+  "output": {
+    "index": 1,
+    "count": 1,
+    "generationId": "01a0ffd9-119a-7a04-8294-cb60a1028870"
+  }
+}

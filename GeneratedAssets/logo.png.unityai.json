@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "generator": {
+    "name": "unity-ai",
+    "version": "0.1.0-alpha.13"
+  },
+  "modelId": "gpt-image-2-5-flare",
+  "orgId": "20067061194790",
+  "jobId": "01a0ffd8-832f-7f36-9148-a9e2b454afdf",
+  "assetId": "01a0ffd8-b92b-7eeb-b648-3ff4abb5b9c4",
+  "pointsCost": 2,
+  "createdAt": "2026-10-03T03:39:52.2611530+00:00",
+  "prompt": "Game title logo with the word SALVONIX in bold, wide, sharp-edged futuristic mecha anime lettering, metallic white and steel blue with a thin glowing cyan edge and a small red accent slash, slightly italic for speed. Only the logo, transparent background, no other text.",
+  "modelName": "GPT Image 2.5 Flare",
+  "params": {
+    "prompt": "Game title logo with the word SALVONIX in bold, wide, sharp-edged futuristic mecha anime lettering, metallic white and steel blue with a thin glowing cyan edge and a small red accent slash, slightly italic for speed. Only the logo, transparent background, no other text.",
+    "width": 1536,
+    "height": 512,
+    "quality": "high",
+    "background": "transparent"
+  },
+  "output": {
+    "index": 1,
+    "count": 1,
+    "generationId": "01a0ffd8-832f-7f36-9148-a9e2b454afdf"
+  }
+}

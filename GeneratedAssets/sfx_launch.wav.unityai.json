@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "generator": {
+    "name": "unity-ai",
+    "version": "0.1.0-alpha.13"
+  },
+  "modelId": "elevenlabs-sound-effects-v2",
+  "orgId": "20067061194790",
+  "jobId": "01a0ffd9-1364-791c-889e-52aafea87e1f",
+  "assetId": "01a0ffd9-42f4-7194-aeeb-65fb99083903",
+  "pointsCost": 5,
+  "createdAt": "2026-10-03T03:40:26.1419350+00:00",
+  "prompt": "Volley of micro missiles launching from a mecha shoulder pod: rapid mechanical thunks and hissing rocket ignition whooshes flying away, sci-fi anime",
+  "modelName": "ElevenLabs Sound Effects V2",
+  "params": {
+    "prompt": "Volley of micro missiles launching from a mecha shoulder pod: rapid mechanical thunks and hissing rocket ignition whooshes flying away, sci-fi anime",
+    "duration": 1.5,
+    "prompt_influence": 0.6
+  },
+  "output": {
+    "index": 1,
+    "count": 1,
+    "generationId": "01a0ffd9-1364-791c-889e-52aafea87e1f"
+  }
+}

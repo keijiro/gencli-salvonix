@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "generator": {
+    "name": "unity-ai",
+    "version": "0.1.0-alpha.13"
+  },
+  "modelId": "elevenlabs-sound-effects-v2",
+  "orgId": "20067061194790",
+  "jobId": "01a0ffd9-11d9-71b9-bd3e-e82853be786c",
+  "assetId": "01a0ffd9-41e2-7f07-8c3e-7f4f9bcbcf00",
+  "pointsCost": 5,
+  "createdAt": "2026-10-03T03:40:25.1959360+00:00",
+  "prompt": "Punchy mid-air explosion of a small robot drone, sharp blast with crackling debris, short tail, sci-fi anime",
+  "modelName": "ElevenLabs Sound Effects V2",
+  "params": {
+    "prompt": "Punchy mid-air explosion of a small robot drone, sharp blast with crackling debris, short tail, sci-fi anime",
+    "duration": 2,
+    "prompt_influence": 0.6
+  },
+  "output": {
+    "index": 1,
+    "count": 1,
+    "generationId": "01a0ffd9-11d9-71b9-bd3e-e82853be786c"
+  }
+}

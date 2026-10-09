@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "generator": {
+    "name": "unity-ai",
+    "version": "0.1.0-alpha.13"
+  },
+  "modelId": "gpt-image-2-5-flare",
+  "orgId": "20067061194790",
+  "jobId": "01a0ffd5-3e00-7181-831d-861344062087",
+  "assetId": "01a0ffd5-9e0a-72f9-9f5f-16bc01f5a321",
+  "pointsCost": 2,
+  "createdAt": "2026-10-03T03:36:28.6461250+00:00",
+  "prompt": "3D render of the ENEMY DRONE from the reference sheet: a spherical dark gunmetal armored core with a single large glowing red sensor eye in the front, four segmented mechanical spider-like arms ending in blade-like claw tips with red glowing points, a rear thruster nozzle. Front three-quarter view from slightly above, all arms fully visible and spread outward. Single isolated object, centered, plain flat light grey studio background, soft even lighting, no text, no labels.",
+  "modelName": "GPT Image 2.5 Flare",
+  "params": {
+    "prompt": "3D render of the ENEMY DRONE from the reference sheet: a spherical dark gunmetal armored core with a single large glowing red sensor eye in the front, four segmented mechanical spider-like arms ending in blade-like claw tips with red glowing points, a rear thruster nozzle. Front three-quarter view from slightly above, all arms fully visible and spread outward. Single isolated object, centered, plain flat light grey studio background, soft even lighting, no text, no labels.",
+    "width": 1536,
+    "height": 1024,
+    "quality": "high",
+    "background": "opaque",
+    "reference_images": [
+      "01a0ffd5-300f-7101-a137-de51aa32d32f"
+    ]
+  },
+  "inputs": [
+    {
+      "param": "reference_images",
+      "file": "concept3.png",
+      "assetId": "01a0ffd5-300f-7101-a137-de51aa32d32f"
+    }
+  ],
+  "output": {
+    "index": 1,
+    "count": 1,
+    "generationId": "01a0ffd5-3e00-7181-831d-861344062087"
+  }
+}

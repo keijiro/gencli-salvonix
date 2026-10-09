@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "generator": {
+    "name": "unity-ai",
+    "version": "0.1.0-alpha.13"
+  },
+  "modelId": "gpt-image-2-5-flare",
+  "orgId": "20067061194790",
+  "jobId": "01a0ffd5-3e3d-72a1-be26-f686344ff4be",
+  "assetId": "01a0ffd5-ba64-764b-8c82-eaa1afe81681",
+  "pointsCost": 2,
+  "createdAt": "2026-10-03T03:36:35.4487580+00:00",
+  "prompt": "3D render of a single small air-to-air micro missile as fired from a mecha shoulder launcher, sleek cylindrical white and dark grey body with a pointed dark nose cone, a thin red stripe band, four small tail fins, a dark exhaust nozzle at the rear. Side three-quarter view, missile horizontal, pointing right. Single isolated object, centered, plain flat light grey studio background, soft even lighting, no text, no labels.",
+  "modelName": "GPT Image 2.5 Flare",
+  "params": {
+    "prompt": "3D render of a single small air-to-air micro missile as fired from a mecha shoulder launcher, sleek cylindrical white and dark grey body with a pointed dark nose cone, a thin red stripe band, four small tail fins, a dark exhaust nozzle at the rear. Side three-quarter view, missile horizontal, pointing right. Single isolated object, centered, plain flat light grey studio background, soft even lighting, no text, no labels.",
+    "width": 1536,
+    "height": 1024,
+    "quality": "high",
+    "background": "opaque",
+    "reference_images": [
+      "01a0ffd5-2fe3-7177-af49-e48f1cf7e4ee"
+    ]
+  },
+  "inputs": [
+    {
+      "param": "reference_images",
+      "file": "concept2.png",
+      "assetId": "01a0ffd5-2fe3-7177-af49-e48f1cf7e4ee"
+    }
+  ],
+  "output": {
+    "index": 1,
+    "count": 1,
+    "generationId": "01a0ffd5-3e3d-72a1-be26-f686344ff4be"
+  }
+}

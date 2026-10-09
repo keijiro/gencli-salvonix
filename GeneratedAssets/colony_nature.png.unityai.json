@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "generator": {
+    "name": "unity-ai",
+    "version": "0.1.0-alpha.13"
+  },
+  "modelId": "gpt-image-2-5-flare",
+  "orgId": "20067061194790",
+  "jobId": "01a0ffd8-9a6f-7f02-bd79-778634dfdafc",
+  "assetId": "01a0ffd9-4b5c-7f41-9b93-e1acf6c74ab9",
+  "pointsCost": 3,
+  "createdAt": "2026-10-03T03:40:31.4313310+00:00",
+  "prompt": "Straight top-down orthographic satellite photograph of lush green parkland inside a space colony, filling the entire frame edge to edge: dense forest patches, meadows, rectangular farm fields, a winding blue river and small lakes, a few thin roads and scattered small white buildings. Flat even daylight, no perspective, no horizon, no sky, no text, uniform density across the whole image so it can be tiled.",
+  "modelName": "GPT Image 2.5 Flare",
+  "params": {
+    "prompt": "Straight top-down orthographic satellite photograph of lush green parkland inside a space colony, filling the entire frame edge to edge: dense forest patches, meadows, rectangular farm fields, a winding blue river and small lakes, a few thin roads and scattered small white buildings. Flat even daylight, no perspective, no horizon, no sky, no text, uniform density across the whole image so it can be tiled.",
+    "width": 2048,
+    "height": 2048,
+    "quality": "high",
+    "background": "opaque",
+    "reference_images": [
+      "01a0ffd8-81f6-7062-9aaa-f3d072bd0719"
+    ]
+  },
+  "inputs": [
+    {
+      "param": "reference_images",
+      "file": "concept1.png",
+      "assetId": "01a0ffd8-81f6-7062-9aaa-f3d072bd0719"
+    }
+  ],
+  "output": {
+    "index": 1,
+    "count": 1,
+    "generationId": "01a0ffd8-9a6f-7f02-bd79-778634dfdafc"
+  }
+}

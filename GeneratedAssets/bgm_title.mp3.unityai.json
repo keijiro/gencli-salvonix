@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "generator": {
+    "name": "unity-ai",
+    "version": "0.1.0-alpha.13"
+  },
+  "modelId": "minimax-music-3-0",
+  "orgId": "20067061194790",
+  "jobId": "01a0ffdc-aeba-7def-9eeb-7de2551c4d82",
+  "assetId": "01a0ffde-f889-7b69-9f05-256696da3550",
+  "pointsCost": 5,
+  "createdAt": "2026-10-03T03:46:41.6931050+00:00",
+  "prompt": "Instrumental opening title theme for a 1990s Japanese mecha anime set in a space colony, 120 BPM, majestic and hopeful, slow build, warm analog synth pads, heroic brass melody, soft orchestral strings, light rock drums entering, cinematic, no vocals",
+  "modelName": "MiniMax Music 3.0",
+  "params": {
+    "prompt": "Instrumental opening title theme for a 1990s Japanese mecha anime set in a space colony, 120 BPM, majestic and hopeful, slow build, warm analog synth pads, heroic brass melody, soft orchestral strings, light rock drums entering, cinematic, no vocals",
+    "is_instrumental": true
+  },
+  "output": {
+    "index": 1,
+    "count": 1,
+    "generationId": "01a0ffdc-aeba-7def-9eeb-7de2551c4d82"
+  }
+}
