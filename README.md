@@ -27,11 +27,6 @@ audio, logo) were produced with generative AI tools.
 ## Requirements
 
 - Unity 6000.6.4f1 or later
-- Universal Render Pipeline
-
-## Getting Started
-
-Open the project in Unity, open `Assets/Main.unity` and enter Play mode.
 
 ## Runtime Overview
 
@@ -55,10 +50,3 @@ The materials, prefabs and the main scene are generated from code. Run
 **Salvonix > Build Scene** from the menu bar to rebuild `Assets/Main.unity`.
 Edit `Assets/Editor/SalvonixSetup.cs` rather than the scene itself, since
 changes made directly to the scene are lost on rebuild.
-
-## Generated Assets
-
-`GeneratedAssets` keeps the original outputs of the generative AI tools along
-with their generation metadata (`*.unityai.json`), including concept images
-that aren't used in the game. The assets actually used are imported under
-`Assets/Generated`.
